@@ -16,7 +16,7 @@ In this application you can build the back end for an e-commerce or internet ret
 To quickly make changes to an e commerse database
 
 ## Walkthrough
-[Link to Video](https://watch.screencastify.com/v/kNOPObdcWEJEFFxJNRCd)
+[Link to Video](https://watch.screencastify.com/v/JFmeFNcs4lAf3b64BCBO)
 
 ## Screenshot
 ![screenshot](assets/images/screenshot2.png)
